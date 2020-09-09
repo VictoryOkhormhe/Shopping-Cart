@@ -2,7 +2,7 @@ body {
 	margin:0px;
 	overflow-x:hidden;
 }
-button,input,button,textarea {
+button,input,textarea {
 	outline:none;
 }
 button {
